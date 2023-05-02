@@ -1,2 +1,6 @@
-﻿hello world
- h
+
+a=int(input("Cuantos años tenes?"))
+if a<18:
+    print("Eres menor de edad")
+else:
+    print("Perfecto, ya podes ir en cana")
